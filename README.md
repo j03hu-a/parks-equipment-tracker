@@ -21,7 +21,7 @@ Traditional community recreation programs often rely on chunky spreadsheets that
 * **Phase 3:** Add check-out history logs tracking borrower info and due dates.
 * **Phase 4:** Build a graphical user interface (GUI) or web wrapper.
 
-## 📁 Repository Structure
+## Repository Structure
 ├── src/
 ├── Eisenhower-Matrix.png
 ├── README.md
